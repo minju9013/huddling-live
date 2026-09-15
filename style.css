@@ -159,6 +159,17 @@ a {
   background: var(--brand-primary);
   color: var(--brand-on-primary);
   cursor: pointer;
+  transition: filter 0.15s ease-out, transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.cta-button:hover {
+  filter: brightness(1.12);
+}
+
+.cta-button:active {
+  filter: brightness(0.96);
+  transform: scale(0.96);
+  transition: filter 0.1s ease-out, transform 0.1s ease-out;
 }
 
 .cta-inline {
