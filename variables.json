@@ -1,0 +1,148 @@
+{
+  "version": "1.0.4",
+  "metadata": {},
+  "collections": [
+    {
+      "name": "huddling",
+      "modes": [
+        {
+          "name": "Mode 1",
+          "variables": [
+            {
+              "name": "content/highest",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFF"
+            },
+            {
+              "name": "content/high",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFFCC"
+            },
+            {
+              "name": "content/medium",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFFA6"
+            },
+            {
+              "name": "brand/on-primary",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFF"
+            },
+            {
+              "name": "brand/primary",
+              "type": "color",
+              "isAlias": false,
+              "value": "#0E72E4"
+            },
+            {
+              "name": "bg",
+              "type": "color",
+              "isAlias": false,
+              "value": "#101010"
+            },
+            {
+              "name": "content/low",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFF66"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Typography",
+      "modes": [
+        {
+          "name": "Style",
+          "variables": [
+            {
+              "name": "heading-48-sb",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 48,
+                "fontFamily": "Pretendard",
+                "fontWeight": "SemiBold",
+                "lineHeight": 120.00000476837158,
+                "lineHeightUnit": "PERCENT",
+                "letterSpacing": 0,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "heading-36-sb",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 36,
+                "fontFamily": "Pretendard",
+                "fontWeight": "SemiBold",
+                "lineHeight": 120.00000476837158,
+                "lineHeightUnit": "PERCENT",
+                "letterSpacing": 0,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "heading-30-sb",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 30,
+                "fontFamily": "Pretendard",
+                "fontWeight": "SemiBold",
+                "lineHeight": 120.00000476837158,
+                "lineHeightUnit": "PERCENT",
+                "letterSpacing": 0,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "heading-20-sb",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 20,
+                "fontFamily": "Pretendard",
+                "fontWeight": "SemiBold",
+                "lineHeight": 120.00000476837158,
+                "lineHeightUnit": "PERCENT",
+                "letterSpacing": 0,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            },
+            {
+              "name": "body-16-m",
+              "type": "typography",
+              "isAlias": false,
+              "value": {
+                "fontSize": 16,
+                "fontFamily": "Pretendard",
+                "fontWeight": "Medium",
+                "lineHeight": 150,
+                "lineHeightUnit": "PERCENT",
+                "letterSpacing": 0,
+                "letterSpacingUnit": "PERCENT",
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
